@@ -1,0 +1,4 @@
+<template>
+  <VitePwaMaifest />
+  <NuxtPage />
+</template>
