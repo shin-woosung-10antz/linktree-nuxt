@@ -52,6 +52,14 @@
                     Sign up
                 </NuxtLink>
             </div>
+            <div class="text-[14px] text-center pt-12">
+                <NuxtLink 
+                    to="/admin"
+                    class="text-[#8228D9] underline"
+                >
+                    admin
+                </NuxtLink>
+            </div>
         </div>
     </AuthLayout>
 </template>
